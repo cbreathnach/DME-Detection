@@ -1,0 +1,4 @@
+Original data is not included here at present.
+It may be available from the author upon reasonable request, or this code may be used with other data, which can be placed in this directory. 
+
+Images should be 2-dimensional OCT images, organised into directories by class name.
