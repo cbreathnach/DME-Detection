@@ -15,4 +15,6 @@ The files contained within are:
 
 6. Models - The models used for the DME Detection and DME classification tasks saved as .h5 files.
 
-7. This readme file as a list of contents. 
+7. R files used to generate confidence intervals. Packages used: epiR (version 2.0.77) and pROC (1.18.5).
+
+8. This readme file as a list of contents. 
