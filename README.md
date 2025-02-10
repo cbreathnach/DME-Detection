@@ -17,4 +17,6 @@ The files contained within are:
 
 7. R files used to generate confidence intervals. Packages used: epiR (version 2.0.77) and pROC (1.18.5).
 
-8. This readme file as a list of contents. 
+8. Prediction files directory, including the results from the test data.
+
+9. This readme file as a list of contents. 
