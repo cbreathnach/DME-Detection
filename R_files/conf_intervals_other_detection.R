@@ -9,7 +9,7 @@ rval <- epi.tests(conf_m_1, conf.level = 0.95, method = "wilson", digits=4)
 print(rval)
 
 # DME Detection - second ophthalmologist 
-conf_m_2 <- as.table(matrix(c(95,10,19,115), nrow = 2, byrow = TRUE))
+conf_m_2 <- as.table(matrix(c(97,8,16,118), nrow = 2, byrow = TRUE))
 rval <- epi.tests(conf_m_2, conf.level = 0.95, method = "wilson", digits=4)
 print(rval)
 

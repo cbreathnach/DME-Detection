@@ -1,5 +1,7 @@
-data_first_classification = read.csv('predictions_classification_test_first.csv')
-data_second_classification = read.csv('predictions_classification_test_second.csv')
+data_first_classification = read.csv('central_predictions_classification_test_first.csv')
+data_second_classification = read.csv('central_predictions_classification_test_second.csv')
+
+library(pROC)
 
 print('### First ophthalmologist DME Classification ###')
 

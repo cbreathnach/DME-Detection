@@ -1,5 +1,5 @@
 data_first_detection = read.csv('predictions_detection_test_first.csv')
-data_second_detection = read.csv('predictions_detection_test_second.csv')
+data_second_detection = read.csv('predictions_detection_test_second-adjust.csv')
 data_ext_detection = read.csv('predictions_detection_test_ext.csv')
 
 library(pROC)
